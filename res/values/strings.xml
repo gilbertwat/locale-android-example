@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LocaleActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="toggle_language">Toggle Language</string>
+    <string name="logout">Logout</string>
+
+</resources>

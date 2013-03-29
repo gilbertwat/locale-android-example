@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LocaleActivity</string>
+    <string name="menu_settings">選項</string>
+    <string name="title_activity_setting">選項</string>
+
+</resources>
